@@ -16,8 +16,12 @@ console.log("Hello world!");
 
 console.log(greet);
 console.log("Hello world!");
-console.log(greet);
-console.log("Hello world!");
+
 console.log(greet);
 console.log("Hello world!");
 
+let result = number / number2;
+let result3 = number + 100;
+let result4 = number2 + 100;
+let result5 = sum + 100;
+let result5 = result + 100;
