@@ -14,3 +14,10 @@ const greet = "Hello world!";
 console.log(greet);
 console.log("Hello world!");
 
+console.log(greet);
+console.log("Hello world!");
+console.log(greet);
+console.log("Hello world!");
+console.log(greet);
+console.log("Hello world!");
+
