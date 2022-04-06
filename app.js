@@ -10,4 +10,7 @@ let result5 = sum + 100;
 let result5 = result + 100;
 
 const greet = "Hello world!";
+const greet = "Hello world!";
+const greet = "Hello world!";
+const greet = "Hello world!";
 
