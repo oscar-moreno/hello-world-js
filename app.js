@@ -11,13 +11,3 @@ let result5 = result + 100;
 
 const greet = "Hello world!";
 
-console.log(greet);
-console.log("Hello world!");
-
-console.log(greet);
-console.log("Hello world!");
-console.log(greet);
-console.log("Hello world!");
-console.log(greet);
-console.log("Hello world!");
-
